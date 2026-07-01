@@ -1,4 +1,4 @@
-# Desafio Técnico — Cloud Humans | Rerisson Moura Diniz
+# Desafio Técnico - Cloud Humans | Rerisson Moura Diniz
 
 ## Análise da Retenção da Claudia
 Plano de ação para atingir 75% de retenção  
@@ -17,10 +17,10 @@ Acesse o dashboard completo com 4 telas navegáveis:
 
 | Tela | Conteúdo |
 |------|----------|
-| 1 — Conversas | KPIs gerais, retenção diária e análise temporal |
-| 2 — Motivo resolução | Pareto de causas de escalada e funil de conversas |
-| 3 — Retenção por tópico | Drill down por tópico e palavras mais frequentes |
-| 4 — Flows Eddie | Performance dos fluxos estruturados |
+| 1 - Conversas | KPIs gerais, retenção diária e análise temporal |
+| 2 - Motivo resolução | Pareto de causas de escalada e funil de conversas |
+| 3 - Retenção por tópico | Drill down por tópico e palavras mais frequentes |
+| 4 - Flows Eddie | Performance dos fluxos estruturados |
 
 ### 2. Documento Executivo
 Resumo executivo, diagnóstico completo, plano de ação e arquitetura de dados em produção.
